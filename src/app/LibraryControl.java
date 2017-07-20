@@ -6,7 +6,7 @@ import data.Library;
 import data.Magazine;
 
 public class LibraryControl {
-    // zmienne do kontrolowania programu
+    // zmienne do kontrolowania programuhhh
     public static final int EXIT = 0;
     public static final int ADD_BOOK = 1;
     public static final int ADD_MAGAZINE = 2;
